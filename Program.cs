@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Luhn Algoritması");
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+Console.WriteLine("Luhn Algoritması");
 
 static bool CreditCard(string cardNumber)
 {
