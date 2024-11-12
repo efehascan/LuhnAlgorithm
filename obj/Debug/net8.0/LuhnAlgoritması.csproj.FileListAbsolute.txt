@@ -1,0 +1,15 @@
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\bin\Debug\net8.0\LuhnAlgoritması.exe
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\bin\Debug\net8.0\LuhnAlgoritması.deps.json
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\bin\Debug\net8.0\LuhnAlgoritması.runtimeconfig.json
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\bin\Debug\net8.0\LuhnAlgoritması.dll
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\bin\Debug\net8.0\LuhnAlgoritması.pdb
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.AssemblyInfoInputs.cache
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.AssemblyInfo.cs
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.sourcelink.json
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.dll
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\refint\LuhnAlgoritması.dll
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.pdb
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\LuhnAlgoritması.genruntimeconfig.cache
+C:\Users\theda\RiderProjects\BankaSistem\LuhnAlgoritması\obj\Debug\net8.0\ref\LuhnAlgoritması.dll
